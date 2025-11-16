@@ -20,7 +20,7 @@ Abaixo, você pode visualizar o Diagrama Entidade-Relacionamento (DER), que repr
 
 ### Diagrama
 
-![Diagrama Entidade-Relacionamento (MER/DER) do Banco de Dados VerSonhos](https://raw.githubusercontent.com/VerSonhos/VerSonhos_database/main/MerDerVerSonhos.png)
+![Diagrama Entidade-Relacionamento (MER/DER) do Banco de Dados VerSonhos](MerDerVerSonhos.png)
 
 ***Nota:** A imagem acima corresponde ao arquivo `MerDerVerSonhos.png` disponível na raiz do repositório.*
 
